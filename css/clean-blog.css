@@ -408,3 +408,8 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+.about-space {
+  position: relative;
+  bottom: 1000px;
+}
